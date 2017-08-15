@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2b2a9ce289c3850f49392ba93f9cb624e34f5933.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b1f2d9caae65996a4eeda4b9561597dd3901805d.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_287e2d7814e8467b6c70af2687cfd23649949ede.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="48704cf0b215e1014d190ce9739541c79838eecd">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/instant-run_9a9c639c22de684c677e1e394d061da287d199d3.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ad4e5681783c9ab6fa339a71f3d9f019019be44c.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_89d7bb61c75a9e4e4ae101785fb019eba2d6a6c2.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_02593196465c98afe086b363b36eba7273c2fcda.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_59e354c93a63c258d1c78587ec58803317bce47e.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_fdd5b77066f72722a67560a2bb7d2f6f53b16a8d.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3ef2fed5527e023f6f3571078e9d50de4d8d9181.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_f93b7e94810dda5f39cc31ec4196e1c6a042a517.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_b5817df028ccc83e7ba37311593a19bde8b2b56b.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_2208ebee594405a3cfcc7e1f0b87b1255be1ffcc.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="adf30861e55be62106def2225805c4c1a7a5f377">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_83f8d59e8f03753104ee3bf0b2b97f2b8ec4648f.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9e264580deafbcffa8d66901cfdace227bd8c0f8.jar" />
+    </item>
+    <item
+        jar="/home/ava/Desktop/RTS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/ava/Desktop/RTS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5964439c68b4a03b8635e28da0bf58dec4d996f3.jar" />
+    </item>
+
+</items>
